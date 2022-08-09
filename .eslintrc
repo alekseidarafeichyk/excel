@@ -12,5 +12,7 @@
         "eslint:recommended",
         "google"
     ],
-    "rules": {},
+    "rules": {
+        "require-jsdoc":"off",
+    },
 }
